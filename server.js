@@ -10,7 +10,7 @@ app.use(cors());
 // Define the API endpoint
 app.get("/", (req, res) => {
   res.json({
-    email: "olatoyesefaruq@example.com",
+    email: "olatoyesefaruq@gmail.com",
     current_datetime: new Date().toISOString(),
     github_url: "https://github.com/Wheezy049/HNG-Api"
   });
