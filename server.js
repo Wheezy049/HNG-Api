@@ -12,9 +12,10 @@ app.get("/", (req, res) => {
   res.json({
     email: "olatoyesefaruq@example.com",
     current_datetime: new Date().toISOString(),
-    github_url: "https://github.com/Wheezy049"
+    github_url: "https://github.com/Wheezy049/HNG-Api"
   });
 });
+
 
 // Start the server
 app.listen(PORT, () => {
