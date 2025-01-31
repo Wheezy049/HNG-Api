@@ -12,15 +12,7 @@ This is a simple API built for the HNG Internship (Stage 0). It returns:
 - **Hosting**: Render
 
 ## API Endpoint
-**Base URL:** `https://hng-api-xw7v.onrender.com/`
-
-### Example Response
-```json
-{
-  "email": "olatoyesefaruq@example.com",
-  "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/Wheezy049/HNG-Api"
-}
+**Base URL:** [https://hng-api-xw7v.onrender.com/](https://hng-api-xw7v.onrender.com/)
 
 ## Deployment
 This API is deployed and publicly accessible at:
@@ -32,3 +24,11 @@ To test the API, simply send a `GET` request to the URL.
 ## Need a Backend Developer?
 Looking for a skilled backend developer?  
 Check out: [Hire Node.js Developers](https://hng.tech/hire/nodejs-developers).
+
+### Example Response
+```json
+{
+  "email": "olatoyesefaruq@example.com",
+  "current_datetime": "2025-01-30T09:30:00Z",
+  "github_url": "https://github.com/Wheezy049/HNG-Api"
+}
